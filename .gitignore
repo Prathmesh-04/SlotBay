@@ -16,3 +16,9 @@ Packages/
 # Secrets
 *.env
 Secrets.xcconfig
+
+# Python backend
+.venv/
+__pycache__/
+*.pyc
+*.db
